@@ -9,7 +9,7 @@ This is a very simple Java application that runs in the terminal and solves Caes
      `git clone https://github.com/gtamvakas/caesar-cipher-solver.git`
 
 
-2. `cd caesars-cipher-solver` 
+2. `cd caesar-cipher-solver` 
 
 3. Run the main java file
 
