@@ -20,7 +20,7 @@ public class Main {
             }else{
                 int key = 1;
                 while(key <= 26) {
-                    System.out.println(ConsoleColors.RED_BOLD+"Key[ "+key+" ]" +  ConsoleColors.RESET + " Plaintext: " + ConsoleColors.GREEN_BOLD + cipherSolver.solve(key));
+                    System.out.println(ConsoleColors.RED_BOLD+"Key[ "+key+" ]" +  ConsoleColors.RESET + " Plaintext: " + ConsoleColors.GREEN_BOLD + cipherSolver.solve(key) + ConsoleColors.RESET);
                     key++;
                 }
                 System.out.println("Do you want to continue? yes/no");
