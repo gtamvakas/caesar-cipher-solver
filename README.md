@@ -14,6 +14,8 @@ This is a very simple Java application that runs in the terminal and solves Caes
 3. Run the main java file
 
     `java Main` 
+4. Input this cipher `Jhlzhy dhz hzzhzzpuhalk!` if you are bored to create a new one.
+5. Input the Key `7`.
 
 
 
